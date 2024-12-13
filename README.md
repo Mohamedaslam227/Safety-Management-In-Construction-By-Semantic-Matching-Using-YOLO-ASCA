@@ -1,0 +1,2 @@
+# Integrating Deep Learning for Safety Management in  Construction: Semantic Image-Rule Matching for Unsafe  Behavior Detection Using YOLO-ESCA
+ A deep learning-based safety monitoring system for construction sites, integrating YOLO-ESCA for object detection and a Cross Attention Network for semantic alignment with safety rules. The system detects unsafe behaviors, evaluates compliance in real-time, and reduces accidents through advanced image-text matching.
