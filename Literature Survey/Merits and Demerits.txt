@@ -1,0 +1,89 @@
+
+
+5.Costs of occupational injuries in construction in the United States
+Merits:
+Comprehensive Cost Analysis: Includes direct, indirect, and quality-of-life costs, providing a full economic impact of injuries.
+Policy Relevance: Offers actionable insights to guide safety interventions in high-cost, high-risk areas like falls and overexertion.
+Demerits:
+Exclusion of Certain Groups: Self-employed and government workers are not included, limiting the findings' applicability.
+Outdated Data: Based on 2002 data, which may not reflect current industry trends or inflation-adjusted costs.
+
+
+6.Imbalanced data classification: Using transfer learning and active sampling
+
+Merits:
+
+Improved Accuracy for Imbalanced Data: Active sampling and data augmentation ensure balanced learning for minority classes.
+Efficient Model Design: Optimized memory and computational trade-offs for deep networks.
+Demerits:
+
+Limited Dataset Applicability: Performance might vary on datasets with extreme imbalance or entirely new domains.
+Computational Overhead: Increased time due to active sampling and real-time augmentation.
+
+7.Computer vision and long short-term memory: Learning to predict unsafe 
+behaviour in construction
+
+Merits:
+High Accuracy: The SiamMask model achieves higher tracking accuracy than other methods like ASLA and SCM, with mAP scores exceeding 90% in some metrics.
+Real-time Applicability: Predictive models allow for immediate action, enhancing safety measures on construction sites.
+Demerits:
+Static Hazard Zones: Hazardous areas were manually labeled and static, limiting adaptability to dynamic site changes.
+Limited Scenarios: The model's generalizability is constrained as it was tested on specific use cases, like people approaching foundation pits
+
+8.From handcrafted to learned representations for human action
+recognition
+
+Merits:
+Handcrafted Representations:
+Effective for small datasets and specific scenarios.
+Lower computational cost for traditional pipelines.
+Learning-Based Representations:
+Superior generalization ability with large-scale data.
+Capable of learning complex spatiotemporal patterns.
+Demerits:
+Handcrafted Representations:
+
+Lack adaptability to complex and real-world scenarios.
+High computational cost for dense sampling techniques like IDT.
+Learning-Based Representations:
+
+Require significant computational resources and large datasets.
+Struggle with real-time applications due to training and testing complexity.
+
+9.A Bayesian-based knowledge tracing model for improving safety training 
+outcomes in construction
+
+Merits:
+Personalization: The model adapts training content dynamically based on individual learning progress and characteristics.
+Efficiency: The BKT model identifies weak knowledge areas, leading to targeted training that significantly improves knowledge retention.
+Demerits:
+Limited Real-World Validation: The framework has been tested in a controlled environment with undergraduate students, lacking real-world construction site validation.
+Data Requirements: Advanced models like Deep Knowledge Tracing require extensive data, which might not be feasible for small-scale applications.
+
+10.Fatal accident patterns of building construction activities in China
+
+Merits:
+Insightful Analysis: The study identifies accident patterns and correlations that are actionable for policymaking.
+Practical Recommendations: Provides targeted suggestions for improving workplace safety.
+Demerits:
+Limited Dataset Scope: Only fatal accidents are analyzed, excluding non-fatal but severe incidents.
+Potential Reporting Bias: Issues like underreporting or misclassification might impact data reliability.
+
+11.YOLO-PL: Helmet wearing detection algorithm based on improved YOLOv4 
+
+Merits:
+High Performance: Outperforms YOLOv4 and YOLOv7 in AP50 and recall, making it ideal for helmet detection tasks.
+Efficiency: Reduces parameters and computational load, enhancing deployability in real-world scenarios.
+Demerits:
+Precision Limitation: AP75 is slightly lower compared to YOLOv7, indicating room for improvement in localization precision.
+Inference Speed: Slower than YOLOv7 tiny models, which might limit deployment in highly resource-constrained environments.
+
+12.Recognizing people’s identity in construction sites with computer vision: A
+spatial and temporal attention pooling network
+
+Merits
+Real-Time Capability: Potential for real-time monitoring and feedback to improve workplace safety.
+Generalization: Effective feature extraction and matching across varied video conditions.
+Demerits
+Dataset Limitations: Relatively small dataset, focused on limited activities (e.g., walking), restricting generalizability.
+Computational Overhead: High processing requirements for extracting attentive representations may cause delays.

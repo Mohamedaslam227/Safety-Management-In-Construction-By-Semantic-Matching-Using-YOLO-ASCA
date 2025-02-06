@@ -99,5 +99,5 @@ names:
 - '97'
 - '98'
 nc: 99
-train: E:\My Research Project\CODE\DataSampled\train
-val: E:\My Research Project\CODE\DataSampled\val
+train: E:\My Research Project\CODE\DataCombinedWithConstruction\train
+val: E:\My Research Project\CODE\DataCombinedWithConstruction\val

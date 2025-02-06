@@ -1,0 +1,42 @@
+Regarding MySql prepar 
+SQL queries - Example retrieve the second highest salary from the employee table 
+
+Difference between Drop & Truncated commends 
+
+What is the difference between JOIN and UNION 
+
+Types of aggregate functions in sql. Example for scalar and aggregate functions 
+
+How do you insert multiple rows into a table in a single query
+
+
+In SQL questions will be related to SQL commands, JOIN and Database design exams above
+
+
+[11/11, 2:11 pm] Siva Mama: In SQL questions will be related to SQL commands, JOIN and Database design exams above
+[11/11, 8:22 pm] Siva Mama: For Cloud Computing Fundamentals 
+Basics cloud concepts & services 
+
+What are the different types of cloud deployment models 
+
+What are the benefits of using cloud computing 
+
+Difference between vertical scaling & horizontal scaling 
+
+Difference between a VM and a container
+
+
+For Python Basic & Intermediate concepts like 
+
+Data types, control structures and libraries 
+
+Example:-
+Difference between a list and a Tuple 
+
+Write a Python function to reverse a string 
+
+How do you handle exceptions in Python 
+
+How do you merge two dictionaries in Python 
+
+Difference between an instance variable and a class variable

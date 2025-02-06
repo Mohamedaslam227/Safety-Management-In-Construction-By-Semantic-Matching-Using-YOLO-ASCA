@@ -1,0 +1,100 @@
+Traversing structural supports (concrete or steel) without railings, near an excavator.
+Working on a ladder without using gloves, near a foundation pit.
+Non-usage of goggles while operating a dump truck in a hazardous zone.
+Using a machine to transport workers without a hardhat on.
+Working close to an excavator without wearing a safety vest.
+Approaching a dangerous zone without edge protection, standing near a wheel loader.
+Using a ladder near a foundation pit without a hardhat and gloves.
+Excavator operator working without proper goggles or mask near scaffolding.
+Worker using a ladder without safety net protection in a dangerous zone.
+Non-usage of safety harness near a wheel loader in operation.
+Appearance of workers in the operating radius of an excavator without wearing gloves.
+Absence of safety signage in an area with a dump truck nearby.
+Approaching a scaffolding edge without wearing goggles and gloves.
+Non-usage of a safety net when lifting materials with an excavator.
+Standing near an open pit with no warning signage, next to a wheel loader.
+Using machinery to transport workers, none wearing hardhats or safety vests.
+Operating an excavator in a hazardous zone with no warning signage.
+No safety vest detected while operating a dump truck in a work zone.
+Lifting workers on machinery without gloves or hardhats.
+Excavator in operation with workers close by, none using masks or goggles.
+Unloading materials from a wheel loader without safety gloves or a safety cone nearby.
+Non-usage of safety harness while working on a ladder near scaffolding.
+Workers close to a ladder without a safety vest or hardhat detected.
+Operating an excavator in a hazardous zone, workers without gloves or hardhats.
+Approaching dangerous equipment like a dump truck without edge protection.
+No hardhat or safety vest while operating a wheel loader in a work zone.
+Non-usage of a safety harness while standing on a ladder near heavy machinery.
+Operating a dump truck in a work zone with no safety signage present.
+Traversing structural supports without railings, near a wheel loader in motion.
+Appearance of workers within the operating radius of a wheel loader without hardhats.
+Non-usage of goggles while using machinery to transport workers.
+Operating heavy machinery in an area with no safety cone or signage.
+Standing near an excavator without edge protection, gloves, or goggles.
+Workers close to a dump truck without hardhats or safety vests.
+Approaching a wheel loader in motion without wearing gloves or goggles.
+No safety vest detected while using machinery to lift materials.
+Workers operating close to a dump truck with no safety cone detected.
+Using a ladder near a dangerous zone without a safety harness and gloves.
+Operating machinery in an area without edge protection and no masks detected.
+Workers in the operating radius of an excavator without proper hardhats or goggles.
+Approaching an excavator without using safety goggles or gloves.
+No warning signage or safety vest detected near a wheel loader in operation.
+Using a ladder near scaffolding without gloves or a safety harness.
+Non-usage of safety vest while operating an excavator near workers.
+Approaching a dump truck without edge protection and wearing no goggles.
+Operating a wheel loader near workers without proper safety signage.
+Workers standing on a ladder without gloves or hardhats near a dangerous zone.
+No safety cone detected while a dump truck is in operation near workers.
+Using machinery to transport workers, none wearing hardhats or masks.
+Excavator operator working in an area with no edge protection or safety net.
+Standing on a ladder without gloves near an excavator in operation.
+Worker using a dump truck without wearing a hardhat or gloves.
+Non-usage of goggles and safety vest while working near an operating wheel loader.
+Approaching dangerous zones with no warning signage, while a dump truck is present.
+Non-usage of hardhat while standing near a ladder and scaffolding.
+Working near a moving excavator with no safety cone and without gloves.
+Operating a wheel loader with workers standing nearby without hardhats.
+No safety net usage while transporting workers using an excavator.
+Worker standing near a dump truck without goggles and safety vest.
+No safety cone or warning signage detected while working near a ladder and foundation pit.
+Excavator operator working without wearing gloves or a safety harness in a hazardous zone.
+Operating a dump truck without wearing a hardhat and mask in a work zone.
+Non-usage of goggles or gloves while working near a wheel loader.
+Workers standing close to an operating excavator without wearing safety vests or gloves.
+Using a ladder near scaffolding without wearing hardhats and gloves.
+Worker operating a dump truck without safety net protection or gloves.
+Approaching a dangerous zone near a wheel loader without proper safety gear or warning signage.
+Non-usage of gloves while operating a ladder near a hazardous edge.
+No warning signage near a dump truck in operation in a construction zone.
+Workers standing close to an operating wheel loader without wearing safety vests or hardhats.
+No safety cone or net protection detected near an excavator in operation.
+Using machinery to transport workers with no hardhats or goggles detected.
+Approaching a wheel loader without wearing goggles or gloves in a dangerous zone.
+Worker operating a ladder near a dump truck without wearing gloves or goggles.
+No edge protection detected while workers are standing near a wheel loader.
+Non-usage of safety vest while standing near an operating excavator.
+No gloves detected while operating machinery near an open foundation pit.
+Workers standing within the operating radius of a dump truck without wearing hardhats.
+Excavator operator working near scaffolding with no safety cone or gloves detected.
+No safety net detected while using machinery to lift workers to a dangerous zone.
+Operating a wheel loader near workers with no warning signage or hardhats detected.
+Non-usage of hardhat and gloves while using a ladder in a dangerous area.
+Workers standing near an operating dump truck without safety vests or goggles.
+Excavator operator working near a hazardous edge without gloves or hardhats.
+Worker standing near scaffolding with no safety cone or net detected.
+Using a ladder near an open pit without wearing safety goggles and gloves.
+Operating a wheel loader near workers with no hardhat or safety vest detected.
+Non-usage of gloves while using a ladder close to an operating excavator.
+No warning signage detected in a hazardous zone while operating machinery.
+Workers standing near an operating dump truck without wearing masks or hardhats.
+Using machinery to transport workers with no safety net and hardhat protection.
+Excavator operator working without wearing gloves or safety goggles in a dangerous area.
+No edge protection detected while workers stand near a wheel loader in motion.
+Non-usage of goggles and gloves while operating a dump truck near scaffolding.
+Standing on a ladder close to a hazardous edge without safety gloves and vest.
+Workers standing near an operating excavator without wearing hardhats or safety cones in place.
+No safety net detected while workers operate near a dump truck.
+Non-usage of gloves while working near a wheel loader in a hazardous zone.
+Approaching dangerous machinery without proper safety vest or gloves detected.
+Workers standing on a ladder near an excavator without wearing hardhats or masks.

@@ -1,0 +1,454 @@
+give the Title of the paper,Formatted author citation, Model used ,Dataset used, Significant Factor and Evaluation Measures with its resultant scores also give 2 points for it merits and demerits
+
+
+
+5.Costs of occupational injuries in construction in the United States
+Merits:
+Comprehensive Cost Analysis: Includes direct, indirect, and quality-of-life costs, providing a full economic impact of injuries.
+Policy Relevance: Offers actionable insights to guide safety interventions in high-cost, high-risk areas like falls and overexertion.
+Demerits:
+Exclusion of Certain Groups: Self-employed and government workers are not included, limiting the findings' applicability.
+Outdated Data: Based on 2002 data, which may not reflect current industry trends or inflation-adjusted costs.
+
+
+6.Imbalanced data classification: Using transfer learning and active sampling
+
+Merits:
+
+Improved Accuracy for Imbalanced Data: Active sampling and data augmentation ensure balanced learning for minority classes.
+Efficient Model Design: Optimized memory and computational trade-offs for deep networks.
+Demerits:
+
+Limited Dataset Applicability: Performance might vary on datasets with extreme imbalance or entirely new domains.
+Computational Overhead: Increased time due to active sampling and real-time augmentation.
+
+7.Computer vision and long short-term memory: Learning to predict unsafe 
+behaviour in construction
+
+Merits:
+High Accuracy: The SiamMask model achieves higher tracking accuracy than other methods like ASLA and SCM, with mAP scores exceeding 90% in some metrics.
+Real-time Applicability: Predictive models allow for immediate action, enhancing safety measures on construction sites.
+Demerits:
+Static Hazard Zones: Hazardous areas were manually labeled and static, limiting adaptability to dynamic site changes.
+Limited Scenarios: The model's generalizability is constrained as it was tested on specific use cases, like people approaching foundation pits
+
+8.From handcrafted to learned representations for human action
+recognition
+
+Merits:
+Handcrafted Representations:
+Effective for small datasets and specific scenarios.
+Lower computational cost for traditional pipelines.
+Learning-Based Representations:
+Superior generalization ability with large-scale data.
+Capable of learning complex spatiotemporal patterns.
+Demerits:
+Handcrafted Representations:
+
+Lack adaptability to complex and real-world scenarios.
+High computational cost for dense sampling techniques like IDT.
+Learning-Based Representations:
+
+Require significant computational resources and large datasets.
+Struggle with real-time applications due to training and testing complexity.
+
+9.A Bayesian-based knowledge tracing model for improving safety training 
+outcomes in construction
+
+Merits:
+Personalization: The model adapts training content dynamically based on individual learning progress and characteristics.
+Efficiency: The BKT model identifies weak knowledge areas, leading to targeted training that significantly improves knowledge retention.
+Demerits:
+Limited Real-World Validation: The framework has been tested in a controlled environment with undergraduate students, lacking real-world construction site validation.
+Data Requirements: Advanced models like Deep Knowledge Tracing require extensive data, which might not be feasible for small-scale applications.
+
+10.Fatal accident patterns of building construction activities in China
+
+Merits:
+Insightful Analysis: The study identifies accident patterns and correlations that are actionable for policymaking.
+Practical Recommendations: Provides targeted suggestions for improving workplace safety.
+Demerits:
+Limited Dataset Scope: Only fatal accidents are analyzed, excluding non-fatal but severe incidents.
+Potential Reporting Bias: Issues like underreporting or misclassification might impact data reliability.
+
+11.YOLO-PL: Helmet wearing detection algorithm based on improved YOLOv4 
+
+Merits:
+High Performance: Outperforms YOLOv4 and YOLOv7 in AP50 and recall, making it ideal for helmet detection tasks.
+Efficiency: Reduces parameters and computational load, enhancing deployability in real-world scenarios.
+Demerits:
+Precision Limitation: AP75 is slightly lower compared to YOLOv7, indicating room for improvement in localization precision.
+Inference Speed: Slower than YOLOv7 tiny models, which might limit deployment in highly resource-constrained environments.
+
+12.Recognizing people’s identity in construction sites with computer vision: A
+spatial and temporal attention pooling network
+
+Merits
+Real-Time Capability: Potential for real-time monitoring and feedback to improve workplace safety.
+Generalization: Effective feature extraction and matching across varied video conditions.
+Demerits
+Dataset Limitations: Relatively small dataset, focused on limited activities (e.g., walking), restricting generalizability.
+Computational Overhead: High processing requirements for extracting attentive representations may cause delays.
+
+13.Real-time smart video surveillance to manage safety
+
+Merits
+High Real-time Accuracy: The system achieved high precision and recall, allowing effective identification of unsafe conditions in real-time.
+Proactive Safety Management: Enables instant alerts and video-based feedback for safety education and management.
+Demerits
+Dataset Constraints: Limited to specific scenarios and requires expansion to improve accuracy for diverse conditions.
+Distance Measurement Limitations: Relied on a 2D reverse perspective transformation, which is less accurate than a potential 3D modeling approach.
+
+14.A context-augmented deep learning approach for worker trajectory 
+prediction on unstructured and dynamic construction sites
+
+Merits:
+Improved Long-Term Prediction Accuracy:
+The context-augmented model significantly reduces FDE by 70% compared to the recursive approach.
+Proactive Hazard Prevention:
+Enables real-time trajectory prediction for proactive safety management on dynamic construction sites.
+Demerits:
+Limited Dataset:
+Small dataset size and reliance on manual annotations may limit generalizability.
+Complexity and Computational Overhead:
+Incorporating contextual features increases computational requirements and the potential for error propagation in real-world applications.
+
+
+15.Spatial-temporal analysis of safety risks in trajectories of construction 
+workers based on complex network theory
+
+Merits:
+Customizable Safety Training:
+Personalized safety management strategies based on trajectory analysis improve worker training efficiency.
+Dynamic Risk Monitoring:
+Real-time analysis using GPS enables quick identification of high-risk areas and proactive interventions.
+Demerits:
+Limited Data Features:
+Excludes critical safety indicators like travel speed and altitude, which could improve risk measurement accuracy.
+Privacy Concerns:
+Tracking worker movements may raise ethical and data security issues requiring additional privacy safeguards.
+
+16.AGNP: Network-wide short-term probabilistic traffic speed prediction
+and imputation
+
+Merits:
+
+Reliability Analysis: Provides probabilistic predictions with confidence intervals, aiding traffic management and congestion predictions.
+Integrated Framework: Simultaneously addresses prediction and imputation using incomplete datasets, showing high resilience to missing data.
+Demerits:
+
+Computational Complexity: While improved compared to Gaussian processes, the model may still demand significant resources for large-scale implementations.
+Domain-Specific Limitations: Its reliance on well-defined graph structures may limit applicability in less-structured or highly complex networks.
+
+17.FaceNet: A Unified Embedding for Face Recognition and Clustering
+
+Merits
+High Efficiency: Compact embedding size (128 bytes per face) ensures scalability and is suitable for large-scale applications like clustering and mobile deployment.
+State-of-the-Art Accuracy: Significantly reduces error rates compared to previous methods, setting new benchmarks on LFW and YTF datasets.
+Demerits
+Long Training Times: Requires up to 2,000 hours of training on large datasets, which is computationally expensive.
+High Resource Requirements: The training process and large-scale data handling demand considerable computational power, limiting accessibility.
+
+18.Multimodal Convolutional Neural Networks for Matching Image and Sentence
+
+Merits
+Comprehensive Matching: Captures multimodal relations at different levels (word, phrase, sentence), providing a more nuanced understanding of image-text relationships.
+End-to-End Training: Jointly learns representations for both modalities, leading to improved performance and simplicity.
+Demerits
+High Computational Cost: Requires significant computational resources for training due to complex convolutional architectures and multimodal integration.
+Dependence on Data Scale: Performance highly depends on the size of training datasets, as seen in weaker results on smaller datasets like Flickr8K.
+
+19.Finding Linear Structure in Large Datasets with
+Scalable Canonical Correlation Analysis
+
+Merits:
+Scalability: Efficiently processes large datasets by avoiding full matrix decompositions and using stochastic optimization.
+Memory Efficiency: Requires much less storage compared to classical approaches, making it suitable for high-dimensional data.
+Demerits:
+Non-Convexity: The optimization problem is inherently non-convex, which could result in convergence to local optima.
+Parameter Sensitivity: The algorithm's performance depends heavily on appropriate step-size selection, necessitating careful tuning.
+
+
+20.Learning Deep Structure-Preserving Image-Text Embeddings
+
+Merits:
+State-of-the-Art Performance: Achieves superior bidirectional retrieval and localization accuracy compared to classical methods like Canonical Correlation Analysis (CCA).
+Flexibility and Scalability: Works with various feature representations and scales well due to SGD-based optimization and triplet sampling.
+Demerits:
+High Sensitivity to Feature Quality: Performance depends on the quality of the input features (e.g., Fisher vectors or word2vec embeddings).
+Complexity in Training: Requires careful balancing of multiple loss components and relies on techniques like batch normalization and dropout for stability.
+
+21.Effective Approaches to Attention-based Neural Machine Translation
+
+Merits:
+Significant Performance Gain: Attention-based models outperform traditional NMT approaches, particularly in handling long sequences and rare words.
+Efficiency and Scalability: Local attention reduces computation for long sequences, making it practical for large datasets.
+Demerits:
+Complex Training Requirements: Attention mechanisms demand careful tuning of hyperparameters, alignment functions, and architectural choices.
+Resource Intensive: Training attention-based NMT models with high-dimensional embeddings requires substantial computational resources and time.
+
+22.ORDER-EMBEDDINGS OF IMAGES AND LANGUAGE
+
+Merits:
+Improved Performance: Consistently outperforms state-of-the-art models in hypernym prediction and image-caption retrieval by exploiting hierarchical relationships.
+Unified Framework: Provides a generalized approach for modeling diverse tasks using the same order-preserving principles.
+Demerits:
+Complexity in Fine-Tuning: Requires careful hyperparameter selection, such as embedding dimensionality and margin, for optimal performance.
+Task-Specific Customization: Although unified, the model still needs task-specific modifications (e.g., contrastive negatives for hypernym prediction, custom loss functions).
+
+23.Learning Deep Representations of Fine-Grained Visual Descriptions
+
+Merits
+Improved Zero-Shot Learning Performance: Outperformed state-of-the-art attribute-based methods in zero-shot classification on both datasets.
+Scalability and Flexibility: The use of textual descriptions allows for scalable and flexible annotations compared to fixed attribute sets.
+Demerits
+Dependency on Text Quality: Requires large amounts of high-quality fine-grained descriptions, which can be expensive and time-consuming to collect.
+Limited Attribute Comparisons: Attributes may still outperform in some retrieval tasks due to their structured nature, particularly with smaller datasets.
+
+24.Dual Attention Networks for Multimodal Reasoning and Matching
+
+Merits:
+Enhanced Attention Mechanism:
+Dual attention across both visual and textual domains for improved interaction modeling.
+Versatility Across Tasks:
+Proven effectiveness in both reasoning and matching tasks with state-of-the-art results.
+Demerits:
+Computational Overhead:
+Complex dual attention mechanisms and iterative processing increase computational cost.
+Limited Scalability:
+While effective for datasets like VQA and Flickr30K, scalability to larger, diverse datasets is not explicitly demonstrated.
+
+25.Instance-aware Image and Sentence Matching with Selective Multimodal LSTM
+
+Merits:
+Instance-level Attention:
+Dynamically selects relevant image and sentence regions, improving semantic alignment.
+End-to-End Learning:
+Can be trained from raw data without additional preprocessing, offering simplicity and efficiency.
+Demerits:
+Dependency on Saliency Maps:
+Effectiveness depends heavily on accurate saliency predictions, which may not generalize to unseen contexts.
+
+26.Learning Two-Branch Neural Networks for
+Image-Text Matching Tasks
+
+Merits:
+High Retrieval Accuracy:
+Achieves state-of-the-art results on image-sentence and region-phrase matching tasks.
+Versatility:
+Embedding Network supports multiple tasks and optimizes for semantic similarity across modalities.
+Demerits:
+Computational Complexity:
+Embedding Network relies on expensive triplet sampling and training procedures.
+Limited Generalization for Certain Tasks:
+Similarity Network underperforms in global image-sentence retrieval due to its design simplicity.
+
+
+
+
+27.VSE++: Improving Visual-Semantic
+Embeddings with Hard Negatives
+
+Merits
+Enhanced Retrieval Accuracy: The use of hard negatives improved performance significantly, achieving state-of-the-art results on MS-COCO.
+Versatility and Applicability: The proposed loss function (MH loss) can be adapted to other visual-semantic embedding tasks and models, demonstrating broader utility.
+Demerits
+Increased Computational Complexity: Training requires more computational resources due to the emphasis on hard negatives, especially for large mini-batch sizes.
+Sensitivity to Batch Composition: The effectiveness of the MH loss depends heavily on the quality of negatives sampled within mini-batches, potentially leading to suboptimal results if batch diversity is inadequate.
+
+
+
+28.Bottom-Up and Top-Down Attention for Image Captioning
+and Visual Question Answering
+
+Merits
+Enhanced Interpretability: Attention calculated at the level of objects and salient regions provides more interpretable visual representations, benefiting applications like VQA and captioning.
+State-of-the-Art Performance: The model achieved superior performance in image captioning and first place in the 2017 VQA Challenge, demonstrating its effectiveness.
+Demerits
+High Computational Cost: Training the Faster R-CNN for bottom-up attention is resource-intensive, requiring extensive computational resources and time.
+Limited Generalization to Non-Object-Centric Tasks: The reliance on object-level attention may not generalize well to tasks requiring focus on abstract features or global context.
+
+
+
+29.Identity-Aware Textual-Visual Matching with Latent Co-attention
+
+
+Merits
+Effective Learning with Identity Annotations: By leveraging identity-level annotations, the model significantly improves cross-modal feature embedding and achieves state-of-the-art results in textual-visual matching.
+Robustness to Sentence Structure Variations: The latent co-attention mechanism effectively aligns image-word features, enhancing robustness to diverse sentence structures.
+Demerits
+High Computational Cost: The two-stage training process, especially Stage-1 with CMCE loss, is computationally intensive due to buffer updates and cross-modal comparisons.
+Complexity in Deployment: The framework's multi-step pipeline (pretraining, fine-tuning, attention mechanisms) may complicate its deployment in real-time or low-resource environments.
+
+
+
+30.Learning Semantic Concepts and Order for Image and Sentence Matching
+
+Merits:
+
+Enhanced image representations improve cross-modal retrieval performance significantly.
+Joint learning framework bridges the visual-semantic gap effectively, yielding state-of-the-art results on benchmarks.
+Demerits:
+
+Requires large labeled datasets for training, limiting applicability to smaller datasets.
+Computationally intensive due to multi-regional CNN processing and semantic order learning.
+
+
+31.Recurrent Residual Convolutional Neural 
+Network based on U-Net (R2U-Net) for 
+Medical Image Segmentation
+
+Merits:
+
+Enhanced performance for medical image segmentation compared to traditional U-Net models.
+Achieves better results with the same number of network parameters, making it computationally efficient.
+Demerits:
+
+Requires high-quality labeled datasets, which are limited in medical imaging.
+Increased complexity due to recurrent and residual components may affect interpretability and debugging.
+
+
+32.Stacked Cross Attention for
+Image-Text Matching
+
+Merits:
+
+Achieves state-of-the-art performance in image-text matching tasks by effectively capturing fine-grained semantic alignments.
+Offers interpretable attention mechanisms that enhance alignment visualization between image regions and textual descriptions.
+Demerits:
+
+Computationally intensive due to the complex attention mechanisms and large feature space.
+Relies heavily on pre-trained models like Faster R-CNN, which may limit adaptability for less-structured datasets.
+
+
+33.Visual Semantic Reasoning for Image-Text Matching
+
+
+Merits
+Improved Performance:
+
+Achieves state-of-the-art results for image-text matching tasks, outperforming existing models by a significant margin.
+Relative improvements of 6.8% (image retrieval) and 4.8% (caption retrieval) on MS-COCO compared to SCAN.
+Interpretability:
+
+Provides interpretable attention visualizations that highlight key semantic concepts in images.
+Demerits
+Complexity:
+
+The incorporation of multiple reasoning modules (region-relationship reasoning and global semantic reasoning) increases the computational complexity compared to simpler models.
+Limited Generalization:
+
+The model may struggle with specific nuanced or rare concepts (e.g., geographic or domain-specific terms) due to insufficient training data.
+
+
+34.Falls from heights: A computer vision-based approach for safety harness
+detection
+
+
+Merits
+Enhanced Safety Compliance:
+
+Real-time monitoring and detection of safety harness use help reduce the risk of falls from heights (FFH) on construction sites.
+Non-Invasive:
+
+The approach monitors workers’ behavior without disrupting their tasks or requiring physical intervention.
+Demerits
+Limited Dataset Size:
+
+The training dataset, while diverse, is relatively small, potentially leading to overfitting and reduced generalization.
+Challenges in Detection:
+
+Issues like color similarity between harnesses and workers' clothing, occlusion, and cluttered backgrounds affect detection accuracy.
+
+
+35.A deep hybrid learning model to detect unsafe behavior: Integrating
+convolution neural networks and long short-term memory
+
+
+Merits
+Improved Accuracy:
+Outperforms traditional handcrafted feature-based methods like HOG and HOF for recognizing unsafe actions.
+Automated Feature Learning:
+Avoids manual feature engineering, making it scalable for more complex actions.
+Demerits
+Limited Dataset:
+Small dataset size may lead to overfitting and limit the model's generalizability.
+Real-Time Limitations:
+The hybrid model requires significant computational resources, making it unsuitable for real-time applications without optimization.
+
+
+
+36.A Deep Learning-Based Approach for Mitigating Falls from Height with Computer Vision: Convolutional Neural Network
+
+Merits
+Real-Time Safety Monitoring: Enables site management to identify unsafe behaviors instantly, facilitating immediate interventions and educational feedback.
+Scalability: High applicability for diverse construction activities, improving overall safety management practices.
+Demerits
+Occlusion Challenge: Detection was limited by the presence of objects obstructing the view, reducing model performance in some cases.
+Restricted Scope: The approach was tested only on a limited set of activities, requiring further validation across varied construction scenarios.
+
+37.Behavior-based safety on construction sites
+
+Merits:
+
+Comprehensive Safety Improvements: The BBS intervention led to significant improvements in safety behaviors across multiple categories.
+Operative Involvement: Actively engaging operatives in goal-setting fostered commitment and ownership, enhancing compliance.
+Demerits:
+
+Time-Intensive Implementation: The method required considerable time for data collection, goal-setting sessions, and observer training.
+Limited Generalizability: The study was conducted within one company and three sites, necessitating further research for broader applicability.
+
+
+
+38.Bi-Directional Spatial-Semantic Attention Networks for Image-Text Matching
+
+Merits
+Enhanced Performance: Achieves state-of-the-art results on multiple image-text matching benchmarks.
+Interpretable Attention Mechanism: Provides visual insights into the matching process through attention maps.
+Demerits
+Computational Complexity: High resource demand due to dual attention mechanisms and deep network layers.
+Generalization Limitation: Requires further validation on diverse datasets beyond Flickr30K and MSCOCO.
+
+39.Computer vision for behaviour-based safety in construction
+
+Merits:
+
+Technological Advancement: Provides a comprehensive integration of deep learning with computer vision for real-time safety monitoring and behavior prediction.
+Future-Oriented Framework: Suggests a structured framework for observing, recording, understanding, and predicting unsafe behaviors, improving safety practices.
+Demerits:
+
+Limited Data Availability: Lack of large, publicly available, construction-specific datasets hinders model development and evaluation.
+Generalization Challenges: Models reviewed show limitations in adapting to diverse and dynamic construction environments.
+
+40.Cross-Modal Attention With Semantic Consistence for Image–Text Matching
+
+Merits:
+
+Enhanced Accuracy: CASC outperforms state-of-the-art methods by incorporating global semantic consistency with local attention alignment.
+Efficient Labeling: The model uses an automated method to extract semantic labels from text, reducing labor costs.
+Demerits:
+
+Data Dependency: Performance heavily depends on the quality and size of the dataset.
+Computational Complexity: Requires considerable resources for training the joint framework with attention mechanisms and semantic consistency.
+
+
+41.Deep Correlation for Matching Images and Text
+
+
+Merits:
+Efficiency and Scalability: The GPU implementation significantly accelerates SVD operations, enabling the use of high-dimensional features and large-scale datasets.
+State-of-the-Art Performance: Achieved high recall and precision metrics on benchmark datasets, demonstrating the effectiveness of DCCA in cross-modal retrieval tasks.
+Demerits:
+Batch Size Limitation: The batch nature of the CCA objective, combined with GPU memory constraints, restricts batch size, which can lead to suboptimal training outcomes.
+Computational Resource Dependency: Requires advanced computational resources (e.g., high-performance GPUs) for efficient training, limiting accessibility for broader applications.
+
+
+42.Deep Visual-Semantic Alignments for Generating Image Descriptions
+
+
+Merits:
+Fine-Grained Image Analysis: The model aligns specific image regions with sentence fragments, offering detailed and interpretable semantic connections.
+Strong Benchmark Performance: Achieved state-of-the-art results in image-sentence alignment and image description tasks across datasets.
+Demerits:
+Complex Training Process: Requires alignment inference and sequential RNN training, adding to computational complexity.
+Limited Expressiveness: Uses simple additive interactions for conditioning image information, which may limit its ability to capture complex relationships.

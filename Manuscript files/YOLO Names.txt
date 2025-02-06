@@ -1,0 +1,5 @@
+YOLO ASCA - (Advanced Small-scale Context Attention)
+An advanced variant focusing on small-scale and context refinement.
+
+YOLO VISTA - (Vision in Small-scale Target Attention)
+Implies sharp detection in small-scale target scenarios.
